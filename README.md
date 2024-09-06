@@ -1,3 +1,6 @@
+Before Everything This Source I Copied From : https://github.com/JadlionHD 
+
+
 ![Example](/assets/ignore/banner.png)
 
 > A Growtopia private server using Node.js
